@@ -1,1 +1,1 @@
-# GoLang-Example-API
+# GoLang Example API
